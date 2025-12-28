@@ -45,7 +45,6 @@ The project is built using:
 2. Click the Generate button.
 3. Wait for the system to create the website files.
 4. Download the ZIP package.
-5. Host the website using GitHub Pages, Netlify, or any static hosting provider.
 
 ## Author
 Created by Kishore Seethi  
